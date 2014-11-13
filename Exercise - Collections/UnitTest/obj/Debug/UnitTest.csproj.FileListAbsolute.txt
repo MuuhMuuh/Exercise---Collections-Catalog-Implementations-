@@ -1,0 +1,7 @@
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\bin\Debug\UnitTest.dll
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\bin\Debug\Exercise - Collections.exe
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\bin\Debug\Exercise - Collections.pdb
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\obj\Debug\UnitTest.dll
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\UnitTest\obj\Debug\UnitTest.pdb

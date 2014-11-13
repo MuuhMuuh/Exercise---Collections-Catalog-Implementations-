@@ -1,0 +1,6 @@
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\bin\Debug\Exercise - Collections.exe.config
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\bin\Debug\Exercise - Collections.exe
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\bin\Debug\Exercise - Collections.pdb
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\obj\Debug\Exercise - Collections.csprojResolveAssemblyReference.cache
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\obj\Debug\Exercise - Collections.exe
+c:\users\jespe_000\documents\visual studio 2013\Projects\Exercise - Collections\Exercise - Collections\obj\Debug\Exercise - Collections.pdb
